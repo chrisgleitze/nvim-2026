@@ -1,5 +1,5 @@
 # nvim-2026
 
-Eingefrorener Snapshot meiner Neovim-Konfiguration bis zur Migration von `lazy.nvim` zu `nvim-pack`.
+Frozen snapshot of my Neovim configuration up to the migration from `lazy.nvim` to `nvim-pack`.
 
-Dieses Repository wird nicht weiterentwickelt. Die Git-Historie dokumentiert den damaligen Entwicklungsstand; die aktuelle Konfiguration entsteht in einem separaten Repository.
+This repository is no longer actively developed. Its Git history documents the configuration's state at that time; the current configuration is being developed in a separate repository.
