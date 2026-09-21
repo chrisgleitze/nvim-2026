@@ -1,4 +1,4 @@
-# nvim-2026
+# nvim-2026 - my lazy.nvim config
 
 Frozen snapshot of my Neovim configuration up to the migration from `lazy.nvim` to `nvim-pack`.
 
